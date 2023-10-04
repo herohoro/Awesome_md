@@ -102,12 +102,13 @@ const blogConfig: BlogConfig = {
     },
   ],
   account: {
-    name: "steelydylan",
-    description: "profile here profile here profile here profile here",
-    image: `/images/me.jpeg`,
+    name: "horomi",
+    description:
+      "作るのが好きだけど、心の何処かでユーザーに徹せらるオアシスを求めて旅してる",
+    image: `/images/horomi.jpeg`,
     social: {
-      twitter: "https://twitter.com/steelydylan",
-      github: "https://github.com/steelydylan",
+      twitter: "https://twitter.com/mineral_30",
+      github: "https://github.com/herohoro",
     },
   },
   writers: [
@@ -118,10 +119,11 @@ const blogConfig: BlogConfig = {
       image: "/images/me.jpeg",
     },
     {
-      id: "steelydylan",
-      name: "steelydylan",
-      description: "profile here profile here profile here profile here",
-      image: "/images/me.jpeg",
+      id: "horomi",
+      name: "horomi",
+      description:
+        "一介のブログオタクが、ゆるく楽しくゆる開発の面白さを語るコンテンツ",
+      image: "/images/horomi.jpeg",
     },
   ],
   categories: [
